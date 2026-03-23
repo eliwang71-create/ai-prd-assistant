@@ -1,0 +1,6 @@
+{
+  "raw_requirement_text": "做一个帮助产品经理自动生成 PRD 和流程图的工具，支持文档优化和 drawio 导出，适合在评审前快速整理需求。",
+  "doc_style": "prd",
+  "rewrite_style": "pm_style",
+  "diagram_type": "user_flow"
+}

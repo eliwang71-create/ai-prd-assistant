@@ -1,0 +1,57 @@
+{
+  "title": "PRD Copilot 用户流程",
+  "diagram_type": "user_flow",
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "输入需求"
+    },
+    {
+      "id": "n2",
+      "label": "AI 拆解需求"
+    },
+    {
+      "id": "n3",
+      "label": "确认结构"
+    },
+    {
+      "id": "n4",
+      "label": "生成文档"
+    },
+    {
+      "id": "n5",
+      "label": "优化改写"
+    },
+    {
+      "id": "n6",
+      "label": "导出流程图"
+    }
+  ],
+  "edges": [
+    {
+      "from": "n1",
+      "to": "n2",
+      "label": ""
+    },
+    {
+      "from": "n2",
+      "to": "n3",
+      "label": ""
+    },
+    {
+      "from": "n3",
+      "to": "n4",
+      "label": ""
+    },
+    {
+      "from": "n4",
+      "to": "n5",
+      "label": ""
+    },
+    {
+      "from": "n5",
+      "to": "n6",
+      "label": ""
+    }
+  ]
+}

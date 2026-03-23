@@ -1,0 +1,34 @@
+{
+  "requirement_name": "PRD Copilot",
+  "target_user": "产品经理",
+  "user_pain_points": [
+    "需求信息零散，整理成文档的成本高",
+    "文档结构不统一，评审前需要反复改写",
+    "流程图需要重新手工绘制"
+  ],
+  "core_goal": "让产品经理通过自然语言输入快速生成结构化产品文档与流程图",
+  "feature_modules": [
+    "需求输入",
+    "AI 拆解",
+    "文档生成",
+    "文档优化",
+    "drawio 导出",
+    "质量检查",
+    "历史记录"
+  ],
+  "key_pages": [
+    "首页",
+    "工作台",
+    "历史记录页"
+  ],
+  "success_metrics": [
+    "PRD 初稿产出时间降低",
+    "流程图绘制时间降低",
+    "评审前文档缺失项减少"
+  ],
+  "diagram_suggestion": "user_flow",
+  "missing_items": [
+    "异常流程说明",
+    "约束条件"
+  ]
+}
